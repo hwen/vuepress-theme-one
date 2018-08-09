@@ -19,3 +19,7 @@ module.exports = {
   theme: 'one'
 }
 ```
+
+## Live Demo
+
+- [validator-core documentation](https://sme-fe.github.io/website-validator/)
