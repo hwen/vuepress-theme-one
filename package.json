@@ -1,0 +1,23 @@
+{
+  "name": "vuepress-theme-one",
+  "version": "0.12.1",
+  "description": "vuepress theme",
+  "main": "util.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vuepress-theme",
+    "vuepress-theme-one"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SME-FE/sme-log"
+  },
+  "bugs": {
+    "url": "https://github.com/SME-FE/sme-log/issues"
+  },
+  "homepage": "https://github.com/SME-FE/sme-log",
+  "author": "hwen <hwenleung@gmail.com>",
+  "license": "MIT"
+}
