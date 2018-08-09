@@ -12,12 +12,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SME-FE/sme-log"
+    "url": "git+https://github.com/hwen/vuepress-theme-one"
   },
   "bugs": {
-    "url": "https://github.com/SME-FE/sme-log/issues"
+    "url": "https://github.com/hwen/vuepress-theme-one/issues"
   },
-  "homepage": "https://github.com/SME-FE/sme-log",
+  "homepage": "https://github.com/hwen/vuepress-theme-one",
   "author": "hwen <hwenleung@gmail.com>",
   "license": "MIT"
 }
