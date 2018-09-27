@@ -1,6 +1,6 @@
 {
   "name": "vuepress-theme-one",
-  "version": "0.12.2",
+  "version": "0.12.3",
   "description": "vuepress theme",
   "main": "util.js",
   "scripts": {
@@ -19,5 +19,8 @@
   },
   "homepage": "https://github.com/hwen/vuepress-theme-one",
   "author": "hwen <hwenleung@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "sme-log": "^0.13.2"
+  }
 }

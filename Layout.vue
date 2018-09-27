@@ -65,6 +65,7 @@ import Page from './Page.vue'
 import Sidebar from './Sidebar.vue'
 import SWUpdatePopup from './SWUpdatePopup.vue'
 import { resolveSidebarItems } from './util'
+import { easterEgg } from './easterEgg'
 
 export default {
   components: { Home, Page, Sidebar, Navbar, SWUpdatePopup },
@@ -145,6 +146,8 @@ export default {
     })
 
     this.$on('sw-updated', this.onSWUpdated)
+
+    easterEgg()
   },
 
   methods: {
